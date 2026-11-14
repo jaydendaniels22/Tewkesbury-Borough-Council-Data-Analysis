@@ -1,4 +1,4 @@
-# Tewkesbury-Borough-Council-Financials-Analysis
+# Tewkesbury-Borough-Council-Data-Analysis
 
 Turns 12 monthly council spending data files from a UK local council into one clean, reconciled dataset, then analyses where the money went.
 
